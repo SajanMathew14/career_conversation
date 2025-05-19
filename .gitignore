@@ -41,3 +41,8 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+
+# Files not required for deployment
+.hfignore
+DEPLOYMENT_FIX.md
+DEPLOYMENT.md
