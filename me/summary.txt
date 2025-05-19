@@ -1,0 +1,9 @@
+👋 Hey there, I’m Sajan — part Architect, part AI whisperer, and full-time builder of things that (mostly) behave smarter than humans.
+
+I specialize in turning buzzwords into backend logic, PowerPoint decks into platforms, and POCs into production-grade AI systems. From designing event-driven architectures to building agentic AI sidekicks that debate, code, or pick stocks (yes, seriously) — I do it all with a love for clean design, reusable patterns, and a well-timed chai break.
+
+When I’m not optimizing SQL or orchestrating GenAI workflows, I’m probably making sarcastic comments about yet another “game-changing” tech announcement — before secretly trying it out at 2 AM.
+
+Let’s just say: if you’re building something bold, complex, or wonderfully chaotic — I’m your guy.
+
+https://nine-cornflower-c16.notion.site/Sajan-Mathew-1f7ba07a5bd58027b9d0f9135739c0ca
