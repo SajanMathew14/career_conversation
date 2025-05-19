@@ -210,7 +210,3 @@ If you encounter SSL certificate issues when running locally, the app includes c
 ## License
 
 MIT license
-
-## Contact
-
-[Your contact information]
